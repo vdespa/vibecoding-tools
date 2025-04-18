@@ -7,13 +7,14 @@ A one‑page overview of popular AI coding assistants, IDEs, CLI agents and low�
 
 ## Low‑Code / No‑Code Tools
 
-| Tool         | Summary                              | Pricing                                  | Free   | Trial   | Free Limitations       | MCP   | Observations             |
-|:-------------|:-------------------------------------|:-----------------------------------------|:-------|:--------|:-----------------------|:------|:-------------------------|
-| Lovable.dev  | AI builder for full‑stack apps       | Starter $20/mo; Launch $50; Scale $100   | Yes    | No      | 5 AI reqs/day          | No    | Quick MVPs               |
-| Bolt.new     | StackBlitz AI Node.js app builder    | Free 1M tokens/mo; Pro $20/mo            | Yes    | No      | Token‑limited          | No    | Generous free tokens     |
-| v0 by Vercel | Chat‑driven UI generator for Next.js | Free tier; Premium $20/mo; Ultra $200/mo | Yes    | No      | Daily/monthly msg caps | No    | Seamless Vercel deploy   |
-| Tempo        | Visual React builder with AI         | Free 30 prompts/mo; Pro $30/mo           | Yes    | No      | 5 prompts/day          | No    | Collaborative design‑dev |
-| Debuild      | AI low‑code (beta) for React + SQL   | Free (beta)                              | Yes    | N/A     | Generous in beta       | No    | Free during beta         |
+| Tool            | Summary                                                                     | Pricing                                  | Free   | Trial   | Free Limitations       | MCP   | Observations             | Link    |
+|:----------------|:----------------------------------------------------------------------------|:-----------------------------------------|:-------|:--------|:-----------------------|:------|:-------------------------|:--------|
+| Lovable.dev     | AI builder for full‑stack apps                                              | Starter $20/mo; Launch $50; Scale $100   | Yes    | No      | 5 AI reqs/day          | No    | Quick MVPs               |         |
+| Bolt.new        | StackBlitz AI Node.js app builder                                           | Free 1M tokens/mo; Pro $20/mo            | Yes    | No      | Token‑limited          | No    | Generous free tokens     |         |
+| v0 by Vercel    | Chat‑driven UI generator for Next.js                                        | Free tier; Premium $20/mo; Ultra $200/mo | Yes    | No      | Daily/monthly msg caps | No    | Seamless Vercel deploy   |         |
+| Firebase Studio | Agentic cloud-based development environment for full-stack apps from Google |                                          |        |         |                        | ?     |                          | [#][4]  |
+| Tempo           | Visual React builder with AI                                                | Free 30 prompts/mo; Pro $30/mo           | Yes    | No      | 5 prompts/day          | No    | Collaborative design‑dev |         |
+| Debuild         | AI low‑code (beta) for React + SQL                                          | Free (beta)                              | Yes    | N/A     | Generous in beta       | No    | Free during beta         |         |
 
 ---
 
@@ -66,3 +67,4 @@ Feel free to report issues and contribute corrections via pull request!
 [1]: https://github.com/openai/codex
 [2]: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/
 [3]: https://www.jetbrains.com/ai/
+[4]: https://studio.firebase.google.com/
