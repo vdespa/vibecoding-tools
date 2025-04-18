@@ -62,5 +62,5 @@ The information provided here is offered on a best‑effort basis and carries no
 
 Feel free to report issues and contribute corrections via pull request!
 
-[1] https://github.com/openai/codex
-[2] https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/
+[1]: https://github.com/openai/codex
+[2]: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/
