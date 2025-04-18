@@ -46,7 +46,8 @@ A one‑page overview of popular AI coding assistants, IDEs, CLI agents and low�
 
 | Tool               | Summary                                   | Pricing                    | Free   | Trial         | Free Limitations     | MCP   | Observations          |
 |:-------------------|:------------------------------------------|:---------------------------|:-------|:--------------|:---------------------|:------|:----------------------|
-| OpenAI Codex CLI   | MIT CLI agent to generate/run code & cmds | Free (uses your API costs) | Yes    | N/A           | API quota only       | No    | Open‑source           |
+| OpenAI Codex CLI   | CLI agent to generate/run code & cmds     | Free (uses your API key)   | Yes    | N/A           | API quota only       | No    | Open‑source           |
+| Claude Code        | CLI agent to generate/run code & cmds     | Free (uses your API key)   | Yes    | N/A           | API quota only       | No    |                       |
 | Amazon Q           |                                           |                            |        | N/A           |                      | No    |                       |
 | Cline              | Open‑source VS Code agent executing cmds  | Free                       | Yes    | N/A           | Depends on API keys  | Yes   | MCP tools marketplace |
 | Aider              | CLI chat tool editing local code          | Free                       | Yes    | N/A           | API limits           | No    | Great for refactors   |
