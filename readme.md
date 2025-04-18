@@ -17,15 +17,16 @@ A one‑page overview of popular AI coding assistants, IDEs, CLI agents and low�
 
 ---
 
-## Full IDEs (VS Code Forks)
+## Full IDEs
 
-| Tool                 | Summary                                                                          | Pricing                                      | Free   | Trial            | Free Limitations                            | MCP   | Observations                     |
-|:---------------------|:---------------------------------------------------------------------------------|:---------------------------------------------|:-------|:-----------------|:--------------------------------------------|:------|:---------------------------------|
-| Cursor               | Y Combinator‑backed VS Code fork; AI agent                                       | Hobby Free; Pro $20/mo; Business $40/user/mo | Yes    | Yes – 2‑week     | 2 000 completions & 50 GPT‑4/Claude reqs/mo | Yes   | Agentic mode; closed‑source fork |
-| Windsurf (Codeium)   | VS Code fork with AI agent integration                                           | Free; Pro $15/mo; Ultimate $60/mo            | Yes    | One‑time credits |                                             | Yes   |                                  |
-| Trae                 | ByteDance VS Code fork with Claude 3.7 & DeepSeek, currently free                | Free (beta)                                  | Yes    | N/A              | None at launch                              | No    | Unlimited Claude usage now       |
-| Replit (Ghostwriter) | Browser IDE + AI "Ghostwriter" assistant                                         | IDE Free; Core $30/mo; Teams $35/user/mo     | Yes    | Limited trial    | One‑time AI credits                         | Yes   | Strong free IDE, paid AI         |
-| Zed                  | High‑perf collaborative editor with experimental AI                              | Free beta                                    | Yes    | N/A              | Beta rate limits                            | Yes   | Focus on speed & collaboration   |
+| Tool                 | Summary                                                                          | Pricing                                      | Free   | Trial            | Free Limitations                            | MCP   | Observations                     | Link    |
+|:---------------------|:---------------------------------------------------------------------------------|:---------------------------------------------|:-------|:-----------------|:--------------------------------------------|:------|:---------------------------------|:--------|
+| Cursor               | Y Combinator‑backed VS Code fork; AI agent                                       | Hobby Free; Pro $20/mo; Business $40/user/mo | Yes    | Yes – 2‑week     | 2 000 completions & 50 GPT‑4/Claude reqs/mo | Yes   | Agentic mode; closed‑source fork |         |
+| Windsurf (Codeium)   | VS Code fork with AI agent integration                                           | Free; Pro $15/mo; Ultimate $60/mo            | Yes    | One‑time credits |                                             | Yes   |                                  |         |
+| Trae                 | ByteDance VS Code fork with Claude 3.7 & DeepSeek, currently free                | Free (beta)                                  | Yes    | N/A              | None at launch                              | No    | Unlimited Claude usage now       |         |
+| Replit (Ghostwriter) | Browser IDE + AI "Ghostwriter" assistant                                         | IDE Free; Core $30/mo; Teams $35/user/mo     | Yes    | Limited trial    | One‑time AI credits                         | Yes   | Strong free IDE, paid AI         |         |
+| Zed                  | High‑perf collaborative editor with experimental AI                              | Free beta                                    | Yes    | N/A              | Beta rate limits                            | Yes   | Focus on speed & collaboration   |         |
+| JetBrains IDEs       | Popular IDE suite for professional developers with AI integrated                 | Baked into the cost of the IDE               | No     | 30-day trial     | N/A                                         | Yes   |                                  | [#][3]  |
 
 ---
 
@@ -64,3 +65,4 @@ Feel free to report issues and contribute corrections via pull request!
 
 [1]: https://github.com/openai/codex
 [2]: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/
+[3]: https://www.jetbrains.com/ai/
